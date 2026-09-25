@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "packageName": "qa.darb.launcher",
-  "versionCode": 7,
-  "versionName": "0.7.0",
+  "versionCode": 8,
+  "versionName": "0.7.1",
   "minSdk": 26,
-  "sizeBytes": 120315,
-  "sha256": "4dc513224ccd21ec089ff39d3325aaebdf72456c1114ac4c45ef5077c4372d3c",
-  "apkUrl": "https://raw.githubusercontent.com/os2744/-darb-updates/main/apk/Darb-v0.7.0.apk",
-  "notes": "مجلدات التطبيقات وترتيبها وإخفاؤها؛ مفضّلات الوسائط وأزرار رجوع 10 وتقديم 30 ثانية؛ مسار الرحلة والمخيم والموتر؛ تقرير تشخيص بدون إحداثيات."
+  "sizeBytes": 105085,
+  "sha256": "bea34bd5f96c30f3d5a59fea78f95435dd28b13c14f3e15667abd0c80881b7ef",
+  "apkUrl": "https://raw.githubusercontent.com/os2744/-darb-updates/main/apk/Darb-v0.7.1.apk",
+  "notes": "تحسين تشخيص تعثر التحديث: رسالة ثابتة تبين المرحلة ورمز الخطأ، مهلة اتصال أطول، وإدراج رمز آخر فشل في تقرير التشخيص. تبقى فحوص البصمة والتوقيع مفعلة."
 }

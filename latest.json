@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "packageName": "qa.darb.launcher",
+  "versionCode": 6,
+  "versionName": "0.6.0",
+  "minSdk": 26,
+  "sizeBytes": 92725,
+  "sha256": "5894edfdcc33be7e6286b6cca496ddef885cdcaf0e7aaf8f77c3882889faf812",
+  "apkUrl": "https://raw.githubusercontent.com/os2744/-darb-updates/main/apk/Darb-v0.6.0.apk",
+  "notes": "تحديث درب من الإنترنت عبر GitHub، مع عرض التقدم والتحقق من الملف قبل التثبيت."
+}

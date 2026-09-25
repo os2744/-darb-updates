@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "packageName": "qa.darb.launcher",
-  "versionCode": 9,
-  "versionName": "0.8.0",
+  "versionCode": 10,
+  "versionName": "0.8.1",
   "minSdk": 26,
-  "sizeBytes": 181411,
-  "sha256": "0b4f26c2a266400d8619b7012de60fb22d29ec43e71e53012e0d66ff9d9ab446",
-  "apkUrl": "https://raw.githubusercontent.com/os2744/-darb-updates/main/apk/Darb-v0.8.0.apk",
-  "notes": "تحديث الوسائط: 3 تصاميم مستقلة (كلاسيكي، أسطوانة دوارة، غلاف ممتد)، مكتبة مجلد/USB مع مشغّل محلي وحفظ موضع الاستماع، وضع قيادة وأزرار 10/15/30 ثانية. إصدار تجريبي يحتاج اختبار الصوت وUSB على الشاشة."
+  "sizeBytes": 134653,
+  "sha256": "e812eaecbf1d60bd626e7cfcfb23b41f0a9e00afd58a95cac97c03ed15f4024b",
+  "apkUrl": "https://raw.githubusercontent.com/os2744/-darb-updates/main/apk/Darb-v0.8.1.apk",
+  "notes": "تبسيط صفحة الوسائط: الغلاف والاسم وشريط الوقت وأزرار التشغيل فقط، وباقي الخيارات داخل زر جانبي واحد. يحتفظ بالتصاميم والمكتبة وإعداداتك السابقة."
 }

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "packageName": "qa.darb.launcher",
-  "versionCode": 13,
-  "versionName": "0.9.0",
+  "versionCode": 14,
+  "versionName": "0.10.0",
   "minSdk": 26,
-  "sizeBytes": 130561,
-  "sha256": "876a2845a0011ed5a4e94a721ae55df6ae79095339f0cebd4fce70ccac6ec000",
-  "apkUrl": "https://raw.githubusercontent.com/os2744/-darb-updates/main/apk/Darb-v0.9.0.apk",
-  "notes": "تخصيص تفاعلي للبطاقات بالسحب والأحجام والمعاينة، إعدادات وسائط موحّدة مع الإعدادات العامة، وثيمات خاصة بألوان واسم وحفظ وتعديل مع بقاء الثيمات المقترحة."
+  "sizeBytes": 1289824,
+  "sha256": "dd87c257e445e8346d577b4d1e515803756aef0adbbd53e0dfa9d3ba89ece5e3",
+  "apkUrl": "https://raw.githubusercontent.com/os2744/-darb-updates/main/apk/Darb-v0.10.0.apk",
+  "notes": "خريطة حيّة في البطاقة والتبويبة، تتبّع واتجاه حركة وحفظ وجهات ومشاركة مواقع. تحسين تقدم التحديث والتثبيت وإعادة قراءة شهادته. Google Maps المدمج جاهز برمجيًا لكنه ينتظر مفتاح مشروعك؛ OpenStreetMap يعمل الآن."
 }

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "packageName": "qa.darb.launcher",
-  "versionCode": 10,
-  "versionName": "0.8.1",
+  "versionCode": 11,
+  "versionName": "0.8.2",
   "minSdk": 26,
-  "sizeBytes": 134653,
-  "sha256": "e812eaecbf1d60bd626e7cfcfb23b41f0a9e00afd58a95cac97c03ed15f4024b",
-  "apkUrl": "https://raw.githubusercontent.com/os2744/-darb-updates/main/apk/Darb-v0.8.1.apk",
-  "notes": "تبسيط صفحة الوسائط: الغلاف والاسم وشريط الوقت وأزرار التشغيل فقط، وباقي الخيارات داخل زر جانبي واحد. يحتفظ بالتصاميم والمكتبة وإعداداتك السابقة."
+  "sizeBytes": 123737,
+  "sha256": "f97c50ca0c0f22f4e3d922871b169b3fcb113e3ea43e2f9a37488e4b285b10f7",
+  "apkUrl": "https://raw.githubusercontent.com/os2744/-darb-updates/main/apk/Darb-v0.8.2.apk",
+  "notes": "قائمة تطبيقات جديدة مستوحاة من الآيفون: أيقونات أوضح بعمق وظلال خفيفة، معاينة التطبيقات داخل المجلدات، وأدوات ترتيب مجمعة. يحتفظ بالمجلدات والمفضّلات والترتيب السابق."
 }

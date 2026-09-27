@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "packageName": "qa.darb.launcher",
-  "versionCode": 12,
-  "versionName": "0.8.3",
+  "versionCode": 13,
+  "versionName": "0.9.0",
   "minSdk": 26,
-  "sizeBytes": 139731,
-  "sha256": "dd66a7e7ce966d5e3aaefdcc2266584ba7c4b59aa5ff9a6198426aac00a82805",
-  "apkUrl": "https://raw.githubusercontent.com/os2744/-darb-updates/main/apk/Darb-v0.8.3.apk",
-  "notes": "واجهة وسائط متوازنة بأحجام متكيفة وبروز ناعم للغلاف والتشغيل، وإعدادات بمجموعات وصفوف مستوحاة من الآيفون وصفحات فرعية للثيمات والتحديثات. يحافظ على الخيارات داخل زر الوسائط الجانبي وعلى إعداداتك."
+  "sizeBytes": 130561,
+  "sha256": "876a2845a0011ed5a4e94a721ae55df6ae79095339f0cebd4fce70ccac6ec000",
+  "apkUrl": "https://raw.githubusercontent.com/os2744/-darb-updates/main/apk/Darb-v0.9.0.apk",
+  "notes": "تخصيص تفاعلي للبطاقات بالسحب والأحجام والمعاينة، إعدادات وسائط موحّدة مع الإعدادات العامة، وثيمات خاصة بألوان واسم وحفظ وتعديل مع بقاء الثيمات المقترحة."
 }

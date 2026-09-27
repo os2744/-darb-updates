@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "packageName": "qa.darb.launcher",
-  "versionCode": 15,
-  "versionName": "0.11.0",
+  "versionCode": 16,
+  "versionName": "0.12.0",
   "minSdk": 26,
-  "sizeBytes": 1297909,
-  "sha256": "c7d48d960c61d4a6b80c10e23ee2eb9bb3ba99ec03f7f886b4468084a151a339",
-  "apkUrl": "https://raw.githubusercontent.com/os2744/-darb-updates/main/apk/Darb-v0.11.0.apk",
-  "notes": "خرائطي للبرامج المثبّتة وإرسال الوجهات للتطبيقات المتوافقة، خريطة كاملة بدون حواف، رجوع Android Home للرئيسية عند تعيين درب افتراضيًا، وخمسة ثيمات محفوظة للعداد."
+  "sizeBytes": 1226806,
+  "sha256": "c127d118dee065ef6207b81bd39562b9ed6051b3b45c111e51a90fb12112edc5",
+  "apkUrl": "https://raw.githubusercontent.com/os2744/-darb-updates/main/apk/Darb-v0.12.0.apk",
+  "notes": "زر جانبي واحد لخيارات الخريطة، قائمة منزلقة وانتقالات انسيابية للصفحات والإعدادات والوسائط مع دعم تقليل الحركة."
 }

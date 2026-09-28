@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "packageName": "qa.darb.launcher",
-  "versionCode": 17,
-  "versionName": "0.13.0",
+  "versionCode": 18,
+  "versionName": "0.14.0",
   "minSdk": 26,
-  "sizeBytes": 1530875,
-  "sha256": "14a18fcb6ca645b5f1c3f0a7ee9ba1173d96207dc312bd5334103d49a277a421",
-  "apkUrl": "https://raw.githubusercontent.com/os2744/-darb-updates/main/apk/Darb-v0.13.0.apk",
-  "notes": "أوضاع محفوظة، تقسيم خريطة ووسائط، مكتبة الطلعات، بحث واختصارات، نسخة احتياطية، مشاركة QR، راحة ليلية، معاينة وتراجع، وفحص توافق الخرائط. تضمين ويز داخل البطاقة غير مفعّل."
+  "sizeBytes": 1544190,
+  "sha256": "c010d633ac65244f110643fe688308edea3f39223a92cf9aabdf2ddf595ed8e6",
+  "apkUrl": "https://raw.githubusercontent.com/os2744/-darb-updates/main/apk/Darb-v0.14.0.apk",
+  "notes": "شريط درب العائم الاختياري، اقتران محلي مؤقت لإرسال الوجهات من الجوال، وحفظ آخر صفحة ومشغّل وسائط. يلزم اختبار إذن الشريط واتصال الهوتسبوت على الشاشة."
 }

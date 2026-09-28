@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "packageName": "qa.darb.launcher",
-  "versionCode": 16,
-  "versionName": "0.12.0",
+  "versionCode": 17,
+  "versionName": "0.13.0",
   "minSdk": 26,
-  "sizeBytes": 1226806,
-  "sha256": "c127d118dee065ef6207b81bd39562b9ed6051b3b45c111e51a90fb12112edc5",
-  "apkUrl": "https://raw.githubusercontent.com/os2744/-darb-updates/main/apk/Darb-v0.12.0.apk",
-  "notes": "زر جانبي واحد لخيارات الخريطة، قائمة منزلقة وانتقالات انسيابية للصفحات والإعدادات والوسائط مع دعم تقليل الحركة."
+  "sizeBytes": 1530875,
+  "sha256": "14a18fcb6ca645b5f1c3f0a7ee9ba1173d96207dc312bd5334103d49a277a421",
+  "apkUrl": "https://raw.githubusercontent.com/os2744/-darb-updates/main/apk/Darb-v0.13.0.apk",
+  "notes": "أوضاع محفوظة، تقسيم خريطة ووسائط، مكتبة الطلعات، بحث واختصارات، نسخة احتياطية، مشاركة QR، راحة ليلية، معاينة وتراجع، وفحص توافق الخرائط. تضمين ويز داخل البطاقة غير مفعّل."
 }

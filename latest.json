@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "packageName": "qa.darb.launcher",
-  "versionCode": 20,
-  "versionName": "0.15.1",
+  "versionCode": 21,
+  "versionName": "0.16.0",
   "minSdk": 26,
-  "sizeBytes": 1273619,
-  "sha256": "ef12b6da80d91f96ff82c831dc226b332657e5ee63c9921cb5662e12d0f25d16",
-  "apkUrl": "https://raw.githubusercontent.com/os2744/-darb-updates/main/apk/Darb-v0.15.1.apk",
-  "notes": "كود تفعيل مختصر 12 خانة ومعرّف شاشة مختصر 16 خانة، مع استمرار دعم التراخيص القديمة"
+  "sizeBytes": 1286966,
+  "sha256": "1565fe4f3a93aad382ac03b20f0390dbe7544e84918a59b03b32fa39b67fa992",
+  "apkUrl": "https://raw.githubusercontent.com/os2744/-darb-updates/main/apk/Darb-v0.16.0.apk",
+  "notes": "واجهة قيادة جديدة؛ تخصيص العدّاد والبوصلة وثيمان إضافيان؛ ثلاث معلومات حسب اختيارك؛ تنبيه سرعة اختياري؛ سحب البطاقات وحفظها؛ أوضاع قيادة محسّنة؛ إخفاء التحكم غير المدعوم بالوسائط؛ وضوح الخرائط الداخلية والملاحة الخارجية؛ أوقات الحركة والتوقف وملخصات الرحلات؛ تقدم التحديث وإعادة المحاولة. التراخيص والإعدادات الحالية محفوظة."
 }

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "packageName": "qa.darb.launcher",
-  "versionCode": 19,
-  "versionName": "0.15.0",
+  "versionCode": 20,
+  "versionName": "0.15.1",
   "minSdk": 26,
-  "sizeBytes": 1273503,
-  "sha256": "80a639a67e431e7a0b5192e720bafdd76f5fdd560c6e4b3dc65ac23b4c25ea0f",
-  "apkUrl": "https://raw.githubusercontent.com/os2744/-darb-updates/main/apk/Darb-v0.15.0.apk",
-  "notes": "يتطلب هذا الإصدار ترخيصًا دائمًا لكل شاشة، بما في ذلك المستخدمون الحاليون. جهّز كودك من المالك قبل التحديث. الشاشات المفعّلة تحتفظ بترخيصها."
+  "sizeBytes": 1273619,
+  "sha256": "ef12b6da80d91f96ff82c831dc226b332657e5ee63c9921cb5662e12d0f25d16",
+  "apkUrl": "https://raw.githubusercontent.com/os2744/-darb-updates/main/apk/Darb-v0.15.1.apk",
+  "notes": "كود تفعيل مختصر 12 خانة ومعرّف شاشة مختصر 16 خانة، مع استمرار دعم التراخيص القديمة"
 }

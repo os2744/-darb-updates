@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "packageName": "qa.darb.launcher",
-  "versionCode": 18,
-  "versionName": "0.14.0",
+  "versionCode": 19,
+  "versionName": "0.15.0",
   "minSdk": 26,
-  "sizeBytes": 1544190,
-  "sha256": "c010d633ac65244f110643fe688308edea3f39223a92cf9aabdf2ddf595ed8e6",
-  "apkUrl": "https://raw.githubusercontent.com/os2744/-darb-updates/main/apk/Darb-v0.14.0.apk",
-  "notes": "شريط درب العائم الاختياري، اقتران محلي مؤقت لإرسال الوجهات من الجوال، وحفظ آخر صفحة ومشغّل وسائط. يلزم اختبار إذن الشريط واتصال الهوتسبوت على الشاشة."
+  "sizeBytes": 1273503,
+  "sha256": "80a639a67e431e7a0b5192e720bafdd76f5fdd560c6e4b3dc65ac23b4c25ea0f",
+  "apkUrl": "https://raw.githubusercontent.com/os2744/-darb-updates/main/apk/Darb-v0.15.0.apk",
+  "notes": "يتطلب هذا الإصدار ترخيصًا دائمًا لكل شاشة، بما في ذلك المستخدمون الحاليون. جهّز كودك من المالك قبل التحديث. الشاشات المفعّلة تحتفظ بترخيصها."
 }

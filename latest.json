@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "packageName": "qa.darb.launcher",
-  "versionCode": 24,
-  "versionName": "0.18.1",
+  "versionCode": 25,
+  "versionName": "0.19.0",
   "minSdk": 26,
-  "sizeBytes": 1327315,
-  "sha256": "0ef744797f6c2919aac7a67abf47b5ae8b25cc0e222b32c0cb36820eafbff53f",
-  "apkUrl": "https://raw.githubusercontent.com/os2744/-darb-updates/main/apk/Darb-v0.18.1.apk",
-  "notes": "إصلاح توقف درب عند التشغيل بعد التحديث بسبب إعدادات الألوان الجديدة الفارغة. التفعيل والإعدادات محفوظة، وبنفس حزمة التطبيق وشهادة التوقيع الأصلية. اختبار شاشة السيارة الفعلي لم يُستكمل في بيئة التطوير."
+  "sizeBytes": 1335779,
+  "sha256": "5d484908b9a5d8d3c84e39e9e68c683a93acbf818f395fbd9429e5ea4cdd4482",
+  "apkUrl": "https://raw.githubusercontent.com/os2744/-darb-updates/main/apk/Darb-v0.19.0.apk",
+  "notes": "التنقل بالسحب الأفقي بين الرئيسية وصفحات الويدجت؛ الضغط المطول لفتح تخصيص الشاشة. عدة صفحات ويدجت مستقلة، وإضافة اختصارات تطبيقات محددة إلى الرئيسية. التفعيل والإعدادات محفوظة، وبنفس حزمة التطبيق وشهادة التوقيع الأصلية. فحوص الواجهة والبناء ناجحة؛ اختبار شاشة السيارة الفعلي لم يُستكمل في بيئة التطوير."
 }

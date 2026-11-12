@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "packageName": "qa.darb.launcher",
-  "versionCode": 41,
-  "versionName": "0.31.0",
+  "versionCode": 42,
+  "versionName": "0.32.0",
   "minSdk": 26,
-  "sizeBytes": 19083221,
-  "sha256": "89d970844620e90499fb80c033751f457f2a1ea0617ee81c7b911a1bce4efc0f",
-  "apkUrl": "https://raw.githubusercontent.com/os2744/-darb-updates/main/apk/Darb-v0.31.0.apk",
-  "notes": "صور أقمار صناعية لقطر التقطها Sentinel-2B في 4 نوفمبر 2026 بدقة مصدر 10 أمتار. افتح طبقة «أقمار» وقرّب داخل قطر لعرض الصور المدمجة دون إنترنت. أصبحت ألوان الصور أهدأ في النهار والليل، ويظهر تاريخ التصوير على الخريطة. تعرض المناطق خارج التغطية صور EOX الأقدم."
+  "sizeBytes": 19086289,
+  "sha256": "0f03b24bac3216f1dfe66da4aaba11c42c89ba4cf5c9c3f30bebee77bca6490f",
+  "apkUrl": "https://raw.githubusercontent.com/os2744/-darb-updates/main/apk/Darb-v0.32.0.apk",
+  "notes": "زر لفتح التطبيق الذي يشغّل الصوت من بطاقة الوسائط أو من الشاشة الكاملة. يفتح الزر مكتبة درب عند تشغيل ملفات محلية. تظهر حالة التشغيل واسم الفنان وتقدّم المقطع عند توفر البيانات، وتحسّن توزيع عناصر الوسائط على الشاشات الصغيرة."
 }

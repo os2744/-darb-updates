@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "packageName": "qa.darb.launcher",
-  "versionCode": 43,
-  "versionName": "0.33.0",
+  "versionCode": 44,
+  "versionName": "0.34.0",
   "minSdk": 26,
-  "sizeBytes": 19094065,
-  "sha256": "7d5bd4fb56e2fbb17c1541ec9c62bd829507a05f465038c1d88d0009d2a82809",
-  "apkUrl": "https://raw.githubusercontent.com/os2744/-darb-updates/main/apk/Darb-v0.33.0.apk",
-  "notes": "تسعة تصاميم لمشغّل الوسائط، منها لوحتان والمختصر ولوحة القيادة والأسطوانة الخارجة من الغلاف وأعمدة التردد والكاسيت. اختر التصميم من خيارات الوسائط. تتفاعل أعمدة التردد مع صوت الملفات التي تشغّلها داخل درب بعد تفعيلها ومنح إذن الصوت في أندرويد."
+  "sizeBytes": 19098149,
+  "sha256": "89aa01fb4dfd9de694bcf6f09df59273bf9c5ce656f531dc38703e0f2b3c14ac",
+  "apkUrl": "https://raw.githubusercontent.com/os2744/-darb-updates/main/apk/Darb-v0.34.0.apk",
+  "notes": "أعيد ترتيب إعدادات درب في خمسة أقسام واضحة بأيقونات مميزة. ابحث باسم الخيار وافتحه مباشرة من نتائج البحث. يفتح اختصار الوسائط قائمة تصاميم المشغّل، وتجمع إدارة الويدجت الإضافة والترتيب وإدارة الصفحات في مكان واحد."
 }

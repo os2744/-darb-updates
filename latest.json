@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "packageName": "qa.darb.launcher",
-  "versionCode": 44,
-  "versionName": "0.34.0",
+  "versionCode": 45,
+  "versionName": "0.35.0",
   "minSdk": 26,
-  "sizeBytes": 19098149,
-  "sha256": "89aa01fb4dfd9de694bcf6f09df59273bf9c5ce656f531dc38703e0f2b3c14ac",
-  "apkUrl": "https://raw.githubusercontent.com/os2744/-darb-updates/main/apk/Darb-v0.34.0.apk",
-  "notes": "أعيد ترتيب إعدادات درب في خمسة أقسام واضحة بأيقونات مميزة. ابحث باسم الخيار وافتحه مباشرة من نتائج البحث. يفتح اختصار الوسائط قائمة تصاميم المشغّل، وتجمع إدارة الويدجت الإضافة والترتيب وإدارة الصفحات في مكان واحد."
+  "sizeBytes": 19098369,
+  "sha256": "8bbc46b6a1e6be7f3354a57f16da23aa89c65699e6065b13b1972d1c5b7d95c0",
+  "apkUrl": "https://raw.githubusercontent.com/os2744/-darb-updates/main/apk/Darb-v0.35.0.apk",
+  "notes": "واجهة إعدادات مختصرة فيها البحث وثلاثة اختصارات مباشرة لمظهر الشاشة وتصميم المشغّل وتحديث التطبيق. تجد الأقسام الخمسة تحت «كل الإعدادات»، ويبحث حقل البحث في جميع الخيارات."
 }

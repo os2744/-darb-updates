@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "packageName": "qa.darb.launcher",
-  "versionCode": 42,
-  "versionName": "0.32.0",
+  "versionCode": 43,
+  "versionName": "0.33.0",
   "minSdk": 26,
-  "sizeBytes": 19086289,
-  "sha256": "0f03b24bac3216f1dfe66da4aaba11c42c89ba4cf5c9c3f30bebee77bca6490f",
-  "apkUrl": "https://raw.githubusercontent.com/os2744/-darb-updates/main/apk/Darb-v0.32.0.apk",
-  "notes": "زر لفتح التطبيق الذي يشغّل الصوت من بطاقة الوسائط أو من الشاشة الكاملة. يفتح الزر مكتبة درب عند تشغيل ملفات محلية. تظهر حالة التشغيل واسم الفنان وتقدّم المقطع عند توفر البيانات، وتحسّن توزيع عناصر الوسائط على الشاشات الصغيرة."
+  "sizeBytes": 19094065,
+  "sha256": "7d5bd4fb56e2fbb17c1541ec9c62bd829507a05f465038c1d88d0009d2a82809",
+  "apkUrl": "https://raw.githubusercontent.com/os2744/-darb-updates/main/apk/Darb-v0.33.0.apk",
+  "notes": "تسعة تصاميم لمشغّل الوسائط، منها لوحتان والمختصر ولوحة القيادة والأسطوانة الخارجة من الغلاف وأعمدة التردد والكاسيت. اختر التصميم من خيارات الوسائط. تتفاعل أعمدة التردد مع صوت الملفات التي تشغّلها داخل درب بعد تفعيلها ومنح إذن الصوت في أندرويد."
 }

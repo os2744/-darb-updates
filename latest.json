@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "packageName": "qa.darb.launcher",
-  "versionCode": 40,
-  "versionName": "0.30.0",
+  "versionCode": 41,
+  "versionName": "0.31.0",
   "minSdk": 26,
-  "sizeBytes": 1878447,
-  "sha256": "59024866af3d92c240e34e4b2943d44b6129b9d83b1bcf3788e9ab8258c5cb95",
-  "apkUrl": "https://raw.githubusercontent.com/os2744/-darb-updates/main/apk/Darb-v0.30.0.apk",
-  "notes": "أدوات جديدة على خريطة درب بملء الشاشة. اضغط رمز الكعبة لإظهار سهم القبلة، واستخدم زر الشمس والقمر للتبديل بين مظهر الخريطة النهاري والليلي. تظهر السرعة بالكيلومتر في الساعة والبوصلة بجانب الخريطة، وتظهر شرطة عند غياب قراءة حديثة."
+  "sizeBytes": 19083221,
+  "sha256": "89d970844620e90499fb80c033751f457f2a1ea0617ee81c7b911a1bce4efc0f",
+  "apkUrl": "https://raw.githubusercontent.com/os2744/-darb-updates/main/apk/Darb-v0.31.0.apk",
+  "notes": "صور أقمار صناعية لقطر التقطها Sentinel-2B في 4 نوفمبر 2026 بدقة مصدر 10 أمتار. افتح طبقة «أقمار» وقرّب داخل قطر لعرض الصور المدمجة دون إنترنت. أصبحت ألوان الصور أهدأ في النهار والليل، ويظهر تاريخ التصوير على الخريطة. تعرض المناطق خارج التغطية صور EOX الأقدم."
 }

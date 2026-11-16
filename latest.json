@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "packageName": "qa.darb.launcher",
-  "versionCode": 45,
-  "versionName": "0.35.0",
+  "versionCode": 46,
+  "versionName": "0.36.0",
   "minSdk": 26,
-  "sizeBytes": 19098369,
-  "sha256": "8bbc46b6a1e6be7f3354a57f16da23aa89c65699e6065b13b1972d1c5b7d95c0",
-  "apkUrl": "https://raw.githubusercontent.com/os2744/-darb-updates/main/apk/Darb-v0.35.0.apk",
-  "notes": "واجهة إعدادات مختصرة فيها البحث وثلاثة اختصارات مباشرة لمظهر الشاشة وتصميم المشغّل وتحديث التطبيق. تجد الأقسام الخمسة تحت «كل الإعدادات»، ويبحث حقل البحث في جميع الخيارات."
+  "sizeBytes": 19104417,
+  "sha256": "f2fd6ade27a3e14a2ff965c0f1dc2d713b87d56f8d0efc59e3b36f1c37976877",
+  "apkUrl": "https://raw.githubusercontent.com/os2744/-darb-updates/main/apk/Darb-v0.36.0.apk",
+  "notes": "ستة تصاميم جديدة للسرعة تشمل العدادات الكلاسيكية والرقمية والرياضية. أضفنا سهم الاتجاه والقراءة الرقمية للبوصلة، وعرضًا مختصرًا، ووحدة ميل/س، وتجهيزات قابلة للمعاينة والحفظ."
 }
